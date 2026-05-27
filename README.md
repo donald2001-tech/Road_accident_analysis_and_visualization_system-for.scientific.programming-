@@ -61,6 +61,22 @@ A classification model was built using Scikit-learn (Random Forest Classifier) t
 - Weather and road conditions contribute to accident severity
 
 ---
+## 📊 Visualizations
+
+### 1. Accident Severity Distribution
+![Severity](severity_graph.png)
+
+### 2. Accident Hotspots by Location
+![Location](location_graph.png)
+
+### 3. Accidents by Weather Condition
+![Weather](weather_graph.png)
+
+### 4. Average Speed by Severity
+![Speed](speed_severity_graph.png)
+
+### 5. Vehicles vs Casualties
+![Casualties](vehicles_casualties_graph.png)
 
 ## 🚀 Future Improvements
 
